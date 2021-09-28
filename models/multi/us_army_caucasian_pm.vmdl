@@ -1,4 +1,4 @@
-<!-- KV3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
 {
 	rootNode = 
 	{
@@ -13,308 +13,869 @@
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_reference"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_reference.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_helmet"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_helmet.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_helmet_nopiece"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_helmet_nopiece.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_cap1"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_cap1.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_cap2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_cap2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_cap3"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_cap3.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_cap4"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_cap4.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_hat1"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_hat1.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_hat2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_hat2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_beret"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_beret.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_headset"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_headset.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_helmet_goggle_up_sock"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_helmet_goggle_up_sock.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_helmet_goggle_up"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_helmet_goggle_up.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_helmet_goggle_down"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_helmet_goggle_down.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_balaclava_1"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_balaclava_1.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_gear"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_gear.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_sunglassess"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_sunglassess.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_sunglassess2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_sunglassess2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_sunglassess3"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_sunglassess3.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_glovs1"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_glovs1.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_glovs2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_glovs2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub3"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub3.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub6"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub6.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub5"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub5.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_ub4"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_ub4.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_lb"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_lb.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_lb2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_lb2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag2"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag2.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag3"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag3.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag4"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag4.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag5"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag5.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag6"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag6.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag7"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag7.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag8"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag8.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag9"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag9.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag10"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag10.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag11"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag11.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag12"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag12.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag13"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag13.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag14"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag14.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag15"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag15.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag16"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag16.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag17"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag17.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag18"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag18.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag19"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag19.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "us_army_caucasian_nametag20"
 						filename = "models/multi/us_army_caucasian_pm/us_army_caucasian_nametag20.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "eyeball_r"
 						filename = "models/multi/us_army_caucasian_pm/eyeball_r.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
 					},
 					{
 						_class = "RenderMeshFile"
 						name = "eyeball_l"
 						filename = "models/multi/us_army_caucasian_pm/eyeball_l.dmx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
-					}
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
 				]
 			},
 			{
@@ -323,22 +884,23 @@
 				[
 					{
 						_class = "EmptyAnim"
+						name = "ref"
 						activity_name = ""
 						activity_weight = 1
-						anim_markup_ordered = false
-						delta = false
-						disable_compression = false
+						weight_list_name = ""
 						fade_in_time = 0.2
 						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
 						frame_count = 1
 						frame_rate = 30
-						hidden = false
-						looping = false
-						name = "ref"
-						weight_list_name = ""
-						worldSpace = false
-					}
+					},
 				]
+				default_root_bone_name = ""
 			},
 			{
 				_class = "BodyGroupList"
@@ -346,469 +908,451 @@
 				[
 					{
 						_class = "BodyGroup"
-						children = 
-						[
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_reference"
-								]
-							}
-						]
-						hidden_in_tools = false
 						name = "ubcs"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_helmet"
+									"us_army_caucasian_reference",
 								]
 							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_helmet_nopiece"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_cap1"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_cap2"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_cap3"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_cap4"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_hat1"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_hat2"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_beret"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_headset"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-								]
-							}
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "helmet"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_helmet_goggle_up_sock"
+									"us_army_caucasian_helmet",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_helmet_goggle_up"
+									"us_army_caucasian_helmet_nopiece",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_helmet_goggle_down"
+									"us_army_caucasian_cap1",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
+									"us_army_caucasian_cap2",
 								]
-							}
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_cap3",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_cap4",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_hat1",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_hat2",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_beret",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_headset",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "goggles"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
+									"us_army_caucasian_helmet_goggle_up_sock",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_balaclava_1"
+									"us_army_caucasian_helmet_goggle_up",
 								]
-							}
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_helmet_goggle_down",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "balaclava"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_gear"
-								]
+								meshes = [  ]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
+									"us_army_caucasian_balaclava_1",
 								]
-							}
+							},
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "gear"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
+									"us_army_caucasian_gear",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_sunglassess"
-								]
+								meshes = [  ]
 							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_sunglassess2"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_sunglassess3"
-								]
-							}
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "sunglasses"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
+							{
+								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_glovs1"
+									"us_army_caucasian_sunglassess",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_glovs2"
+									"us_army_caucasian_sunglassess2",
 								]
-							}
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_sunglassess3",
+								]
+							},
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "gloves"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_ub"
+									"us_army_caucasian_glovs1",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_ub2"
+									"us_army_caucasian_glovs2",
 								]
 							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_ub3"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_ub6"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_ub5"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_ub4"
-								]
-							}
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "ub"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_lb"
+									"us_army_caucasian_ub",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_lb2"
+									"us_army_caucasian_ub2",
 								]
-							}
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_ub3",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_ub6",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_ub5",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_ub4",
+								]
+							},
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "lb"
-					},
-					{
-						_class = "BodyGroup"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_nametag"
+									"us_army_caucasian_lb",
 								]
 							},
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"us_army_caucasian_nametag2"
+									"us_army_caucasian_lb2",
 								]
 							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag3"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag4"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag5"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag6"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag7"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag8"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag9"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag10"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag11"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag12"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag13"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag14"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag15"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag16"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag17"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag18"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag19"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-									"us_army_caucasian_nametag20"
-								]
-							},
-							{
-								_class = "BodyGroupChoice"
-								meshes = 
-								[
-								]
-							}
 						]
 						hidden_in_tools = false
+					},
+					{
+						_class = "BodyGroup"
 						name = "nametags"
-					}
-				]
-			},
-			{
-				_class = "JiggleBoneList"
-				children = 
-				[
+						children = 
+						[
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag2",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag3",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag4",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag5",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag6",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag7",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag8",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag9",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag10",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag11",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag12",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag13",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag14",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag15",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag16",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag17",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag18",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag19",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = 
+								[
+									"us_army_caucasian_nametag20",
+								]
+							},
+							{
+								_class = "BodyGroupChoice"
+								meshes = [  ]
+							},
+						]
+						hidden_in_tools = false
+					},
 				]
 			},
 			{
@@ -816,10 +1360,24 @@
 				children = 
 				[
 					{
+						_class = "DefaultMaterialGroup"
+						remaps = [  ]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
 						_class = "MaterialGroup"
 						name = "skin_0"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_04_co.vmat"
+							},
+							{
+								from = "materials/models/multi/heads_arma/eyeball_l.vmat"
+								to = "materials/models/multi/heads_arma/eyeball_l.vmat"
+							},
 						]
 					},
 					{
@@ -827,6 +1385,10 @@
 						name = "skin_1"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_05_co.vmat"
+							},
 						]
 					},
 					{
@@ -834,6 +1396,10 @@
 						name = "skin_2"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_06_co.vmat"
+							},
 						]
 					},
 					{
@@ -841,6 +1407,10 @@
 						name = "skin_3"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_08_co.vmat"
+							},
 						]
 					},
 					{
@@ -848,6 +1418,10 @@
 						name = "skin_4"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_15_co.vmat"
+							},
 						]
 					},
 					{
@@ -855,14 +1429,18 @@
 						name = "skin_5"
 						remaps = 
 						[
+							{
+								from = "materials/models/multi/heads_arma/m_white_01_co.vmat"
+								to = "materials/models/multi/heads_arma/m_white_11_co.vmat"
+							},
 						]
-					}
+					},
 				]
 			},
 			{
 				_class = "BoneMarkupList"
 				bone_cull_type = "None"
-			}
+			},
 		]
 		model_archetype = ""
 		primary_associated_entity = ""
