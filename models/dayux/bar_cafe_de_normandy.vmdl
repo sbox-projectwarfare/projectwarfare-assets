@@ -1,0 +1,154 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "re_shelf_side.vmat"
+								to = "materials/dayux/re_shelf_side.vmat"
+							},
+							{
+								from = "re_shelf_side2.vmat"
+								to = "materials/dayux/re_shelf_side.vmat"
+							},
+							{
+								from = "re_bar_end_l3.vmat"
+								to = "materials/dayux/re_bar_end_l.vmat"
+							},
+							{
+								from = "re_bar_end_l2.vmat"
+								to = "materials/dayux/re_bar_end_l.vmat"
+							},
+							{
+								from = "re_bar_side.vmat"
+								to = "materials/dayux/re_bar_side.vmat"
+							},
+							{
+								from = "re_bar_side1.vmat"
+								to = "materials/dayux/re_bar_side.vmat"
+							},
+							{
+								from = "re_ho_01.vmat"
+								to = "materials/dayux/re_ho_01.vmat"
+							},
+							{
+								from = "re_ho_02.vmat"
+								to = "materials/dayux/re_ho_02.vmat"
+							},
+							{
+								from = "re_shelf_mid.vmat"
+								to = "materials/dayux/re_shelf_mid.vmat"
+							},
+							{
+								from = "re_candle_01.vmat"
+								to = "materials/dayux/re_candle_01.vmat"
+							},
+							{
+								from = "re_bar_center.vmat"
+								to = "materials/dayux/re_bar_center.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/dayux/bar_cafe_de_normandy.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 0.5
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Mesh",
+								"Mesh_002",
+								"Mesh_003",
+								"Mesh_004",
+								"Mesh_005",
+								"Mesh_006",
+								"Mesh_008",
+								"Mesh_009",
+								"Mesh_0010",
+								"Mesh_0011",
+								"Mesh_010",
+								"Mesh_0012",
+								"Mesh_011",
+								"Mesh_0013",
+								"Mesh_0014",
+								"Mesh_013",
+								"Mesh_015",
+								"Mesh_007",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "ModelDataList"
+				children = 
+				[
+					{
+						_class = "Bounds View"
+						mins = [ -61.58157, -45.497147, -13.613686 ]
+						maxs = [ 98.781395, 172.996048, 97.655815 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "bar_cafe_de_normandy_collision"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						recenter_on_parent_bone = false
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						filename = "models/dayux/bar_cafe_de_normandy_collision.fbx"
+						import_scale = 0.5
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "HullPerElement"
+						optimization_algorithm = "Exact"
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

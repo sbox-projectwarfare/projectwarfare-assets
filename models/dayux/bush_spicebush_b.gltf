@@ -1,0 +1,373 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "VRF - https://vrf.steamdb.info/",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2735,
+      "max": [
+        96.72296905517578,
+        101.3742446899414,
+        235.0498046875
+      ],
+      "min": [
+        -145.52247619628906,
+        -112.37823486328125,
+        -6.99951696395874
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2735,
+      "max": [
+        0.99951171875,
+        1.0126953125
+      ],
+      "min": [
+        0.0005612373352050781,
+        -0.99560546875
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2735,
+      "max": [
+        0.999462902545929,
+        0.998566746711731,
+        0.999462902545929
+      ],
+      "min": [
+        -0.9997313618659973,
+        -0.8403391242027283,
+        -0.9998700022697449
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2735,
+      "max": [
+        0.998073399066925,
+        0.9972413182258606,
+        0.998073399066925,
+        -1
+      ],
+      "min": [
+        -0.9998700022697449,
+        -0.9715325832366943,
+        -0.9960377216339111,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 7137,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 1673,
+      "max": [
+        100.16170501708984,
+        104.28871154785156,
+        240.62429809570312
+      ],
+      "min": [
+        -151.21495056152344,
+        -115.09403228759766,
+        -6.930083751678467
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 1673,
+      "max": [
+        0.99951171875,
+        1.0126953125
+      ],
+      "min": [
+        0.0005612373352050781,
+        -1.9931640625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 1673,
+      "max": [
+        0.998073399066925,
+        0.9889077544212341,
+        0.9988528490066528
+      ],
+      "min": [
+        -0.9963046908378601,
+        -0.6959779858589172,
+        -0.9998700022697449
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 1673,
+      "max": [
+        0.998073399066925,
+        0.9944271445274353,
+        0.9969363212585449,
+        -1
+      ],
+      "min": [
+        -1,
+        -0.92326819896698,
+        -0.9912170171737671,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 3450,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 32820,
+      "byteOffset": 43760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 21880,
+      "byteOffset": 164716,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32820,
+      "byteOffset": 76580,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 43760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28548,
+      "byteOffset": 109400,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20076,
+      "byteOffset": 186596,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13384,
+      "byteOffset": 240548,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20076,
+      "byteOffset": 206672,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26768,
+      "byteOffset": 137948,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13800,
+      "byteOffset": 226748,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 253932,
+      "uri": "bush_spicebush_b.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "bush_spicebush_diff_color_tga_b7bc1d86_0",
+      "uri": "bush_spicebush_diff_color_tga_b7bc1d86.png"
+    },
+    {
+      "name": "default_ao_tga_559f1ac6_1",
+      "uri": "default_ao_tga_559f1ac6.png"
+    },
+    {
+      "name": "bush_spicebush_spec_tm_color_tga_e0ad8a64_2",
+      "uri": "bush_spicebush_spec_tm_color_tga_e0ad8a64.png"
+    },
+    {
+      "name": "bush_spicebush_nrm_normal_tga_e2051e1d_3",
+      "uri": "bush_spicebush_nrm_normal_tga_e2051e1d.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "bush_spicebush",
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "E:\\SteamLibrary\\steamapps\\common\\sbox\\addons\\rust\\models\\rust_nature\\bush_spicebush\\bush_spicebush_b.vmdl_c.Embedded.1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "E:\\SteamLibrary\\steamapps\\common\\sbox\\addons\\rust\\models\\rust_nature\\bush_spicebush\\bush_spicebush_b.vmdl_c.Embedded.2",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "TEXCOORD_0": 6,
+            "NORMAL": 7,
+            "TANGENT": 8
+          },
+          "indices": 9,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "E:\\SteamLibrary\\steamapps\\common\\sbox\\addons\\rust\\models\\rust_nature\\bush_spicebush\\bush_spicebush_b.vmdl_c.Embedded.1",
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mesh": 0
+    },
+    {
+      "name": "E:\\SteamLibrary\\steamapps\\common\\sbox\\addons\\rust\\models\\rust_nature\\bush_spicebush\\bush_spicebush_b.vmdl_c.Embedded.2",
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mesh": 1
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "bush_spicebush_b.vmdl_c",
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "bush_spicebush_diff_color_tga_b7bc1d86_0",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "default_ao_tga_559f1ac6_1",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "bush_spicebush_spec_tm_color_tga_e0ad8a64_2",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "bush_spicebush_nrm_normal_tga_e2051e1d_3",
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

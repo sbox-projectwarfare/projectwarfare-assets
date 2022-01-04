@@ -1,0 +1,75 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "blendable.vfx"
+
+	F_MULTIBLEND 3 // 4 Layers
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Material A ----
+	g_flTintColorA "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusionA "materials/default/default_ao.tga"
+	TextureBlendMaskA "materials/dayux/ground003_disp.jpg"
+	TextureColorA "materials/dayux/ground003_color.jpg"
+	TextureMetalnessA "materials/default/default_metal.tga"
+	TextureNormalA "materials/dayux/ground003_normal.jpg"
+	TextureRoughnessA "materials/dayux/ground003_rough.jpg"
+	TextureTintMaskA "materials/dayux/ground003_color.jpg"
+
+	//---- Material B ----
+	g_flBlendSoftnessB "1.000"
+	g_flTintColorB "[0.000000 0.000000 0.000000 0.000000]"
+	g_vTexCoordScale2 "[1.000 1.000]"
+	TextureAmbientOcclusionB "materials/default/default_ao.tga"
+	TextureBlendMaskB "materials/dayux/ground038_2k_displacement.jpg"
+	TextureColorB "materials/dayux/ground038_2k_color.jpg"
+	TextureMetalnessB "materials/default/default_metal.tga"
+	TextureNormalB "materials/dayux/ground038_2k_normalgl.jpg"
+	TextureRoughnessB "materials/dayux/ground038_2k_roughness.jpg"
+	TextureTintMaskB "materials/dayux/ground038_2k_displacement.jpg"
+
+	//---- Material C ----
+	g_flBlendSoftnessC "1.000"
+	g_flTintColorC "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordScale3 "[0.500 0.500]"
+	TextureAmbientOcclusionC "materials/default/default_ao.tga"
+	TextureBlendMaskC "materials/dayux/wet mud_displacement.png"
+	TextureColorC "materials/dayux/wet mud_albedo.png"
+	TextureMetalnessC "materials/default/default_metal.tga"
+	TextureNormalC "materials/dayux/wet mud_normal.jpg"
+	TextureRoughnessC "materials/dayux/wet mud_roughness.png"
+	TextureTintMaskC "materials/default/default.tga"
+
+	//---- Material D ----
+	g_flBlendSoftnessD "1.000"
+	g_flTintColorD "[0.000000 0.000000 0.000000 0.000000]"
+	g_vTexCoordScale4 "[1.000 1.000]"
+	TextureAmbientOcclusionD "materials/dayux/2k-ground_3-ao.jpg"
+	TextureBlendMaskD "materials/dayux/2k-ground_3-displacement.jpg"
+	TextureColorD "materials/dayux/2k-ground_3-diffuse.jpg"
+	TextureMetalnessD "materials/default/default_metal.tga"
+	TextureNormalD "materials/dayux/2k-ground_3-normal.jpg"
+	TextureRoughnessD "materials/default/default_rough.tga"
+	TextureTintMaskD "materials/default/default.tga"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+}
