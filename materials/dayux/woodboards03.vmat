@@ -1,9 +1,0 @@
-// Converted with vmt_to_vmat.py
-
-Layer0
-{
-	shader "vr_complex.vfx"
-
-	TextureColor "materials\dayux\woodboards03_color.tga"
-	TextureNormal "materials\dayux\woodboards03_normal.tga"
-}
