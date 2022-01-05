@@ -6,6 +6,9 @@ Layer0
 
 	F_MULTIBLEND 3 // 4 Layers
 
+	//---- Use Tint Masks In Vertex Paint ----
+	F_USE_TINT_MASKS_IN_VERTEX_PAINT 1
+
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
@@ -19,6 +22,10 @@ Layer0
 	//---- Lighting ----
 	g_flDirectionalLightmapMinZ "0.050"
 	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Material ----
+	TextureColor "materials/dayux/ground003_color.jpg"
+	TextureTintMask "materials/default/default.tga"
 
 	//---- Material A ----
 	g_flTintColorA "[1.000000 1.000000 1.000000 0.000000]"
@@ -72,4 +79,10 @@ Layer0
 	g_vTexCoordOffset "[0.000 0.000]"
 	g_vTexCoordScale "[1.000 1.000]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
+
+	SystemAttributes
+	{
+		WorldMappingWidth "128"
+		WorldMappingHeight "128"
+	}
 }
