@@ -29,10 +29,10 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/MilTruck/Wheel.obj"
+						filename = "models/MilTruck/Wheel.fbx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 40.394001
+						import_scale = 0.54
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -42,8 +42,8 @@
 							exclude_by_default = true
 							exception_list = 
 							[
-								"wheel",
-								"wheel1",
+								"UniqueID_7_007",
+								"UniqueID_7_008",
 							]
 						}
 					},

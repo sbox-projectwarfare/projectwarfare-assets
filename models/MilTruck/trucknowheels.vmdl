@@ -18,12 +18,12 @@
 								to = "materials/models/miltruck/militarytruckv6.vmat"
 							},
 							{
-								from = "mat_trucktarp.vmat"
-								to = "materials/models/miltruck/trucktarpv6.vmat"
-							},
-							{
 								from = "mat_6x6militarytruckalpha.vmat"
 								to = "materials/models/miltruck/6x6militarytruckv6.vmat"
+							},
+							{
+								from = "mat_trucktarp.vmat"
+								to = "materials/models/miltruck/trucktarpv6.vmat"
 							},
 						]
 						use_global_default = false
@@ -37,10 +37,10 @@
 				[
 					{
 						_class = "RenderMeshFile"
-						filename = "models/MilTruck/TruckNoWheels.obj"
+						filename = "models/MilTruck/TruckNoWheels.fbx"
 						import_translation = [ 0.0, 0.0, 0.0 ]
 						import_rotation = [ 0.0, 0.0, 0.0 ]
-						import_scale = 40.394001
+						import_scale = 0.54
 						align_origin_x_type = "None"
 						align_origin_y_type = "None"
 						align_origin_z_type = "None"
@@ -50,25 +50,25 @@
 							exclude_by_default = true
 							exception_list = 
 							[
-								"trucknowheels",
-								"trucknowheels1",
-								"trucknowheels2",
-								"trucknowheels3",
-								"trucknowheels4",
-								"trucknowheels5",
-								"trucknowheels6",
-								"trucknowheels7",
-								"trucknowheels8",
-								"trucknowheels9",
-								"trucknowheels10",
-								"trucknowheels11",
-								"trucknowheels12",
-								"trucknowheels13",
-								"trucknowheels14",
-								"trucknowheels15",
-								"trucknowheels16",
-								"trucknowheels17",
-								"trucknowheels18",
+								"Mat_TruckTarp",
+								"UniqueID_7",
+								"UniqueID_7_000",
+								"UniqueID_7_001",
+								"UniqueID_7_002",
+								"UniqueID_7_003",
+								"UniqueID_7_004",
+								"UniqueID_7_017",
+								"UniqueID_7_018",
+								"UniqueID_7_019",
+								"UniqueID_7_020",
+								"UniqueID_22",
+								"UniqueID_7_021",
+								"UniqueID_7_022",
+								"UniqueID_22_000",
+								"UniqueID_7_023",
+								"UniqueID_7_024",
+								"Mat_6x6MilitaryTruckAlpha",
+								"Mat_6x6MilitaryTruck",
 							]
 						}
 					},
