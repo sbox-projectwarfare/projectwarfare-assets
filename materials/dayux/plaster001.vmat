@@ -30,12 +30,12 @@ Layer0
 	//---- Material A ----
 	g_flTintColorA "[1.000000 1.000000 1.000000 0.000000]"
 	TextureAmbientOcclusionA "materials/default/default_ao.tga"
-	TextureBlendMaskA "[1.000000 1.000000 1.000000 0.000000]"
+	TextureBlendMaskA "materials/dayux/plaster001_2k_displacement.jpg"
 	TextureColorA "materials/dayux/plaster001_2k_color.jpg"
 	TextureMetalnessA "materials/default/default_metal.tga"
 	TextureNormalA "materials/dayux/plaster001_2k_normaldx.jpg"
 	TextureRoughnessA "materials/dayux/plaster001_2k_roughness.jpg"
-	TextureTintMaskA "materials/dayux/plaster001_2k_displacement.jpg"
+	TextureTintMaskA "materials/dayux/plaster001_2k_roughness.jpg"
 
 	//---- Material B ----
 	g_flBlendSoftnessB "0.100"
