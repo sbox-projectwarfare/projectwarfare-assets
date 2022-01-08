@@ -1,0 +1,64 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "blendable.vfx"
+
+	F_MULTIBLEND 1 // 2 Layers
+
+	//---- Use Tint Masks In Vertex Paint ----
+	F_USE_TINT_MASKS_IN_VERTEX_PAINT 1
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Fade ----
+	g_flFadeExponent "1.000"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapStrength "1.000"
+
+	//---- Material ----
+	TextureColor "materials/dayux/red-clay-wall-albedo.png"
+	TextureTintMask "materials/default/default.tga"
+
+	//---- Material A ----
+	g_flTintColorA "[1.000000 1.000000 1.000000 0.000000]"
+	TextureAmbientOcclusionA "materials/dayux/red-clay-wall-ao.png"
+	TextureBlendMaskA "materials/dayux/red-clay-wall-height.png"
+	TextureColorA "materials/dayux/red-clay-wall-albedo.png"
+	TextureMetalnessA "materials/default/default_metal.tga"
+	TextureNormalA "materials/dayux/red-clay-wall-normal-dx.png"
+	TextureRoughnessA "materials/dayux/red-clay-wall-roughness.png"
+	TextureTintMaskA "materials/dayux/red-clay-wall-height.png"
+
+	//---- Material B ----
+	g_flBlendSoftnessB "0.100"
+	g_flTintColorB "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordScale2 "[1.000 1.000]"
+	TextureAmbientOcclusionB "materials/dayux/bricks037_2k_ambientocclusion.jpg"
+	TextureBlendMaskB "materials/dayux/bricks037_2k_displacement.jpg"
+	TextureColorB "materials/dayux/bricks037_2k_color.jpg"
+	TextureMetalnessB "materials/default/default_metal.tga"
+	TextureNormalB "materials/dayux/bricks037_2k_normaldx.jpg"
+	TextureRoughnessB "materials/dayux/bricks037_2k_roughness.jpg"
+	TextureTintMaskB "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Texture Coordinates ----
+	g_nScaleTexCoordUByModelScaleAxis "0"
+	g_nScaleTexCoordVByModelScaleAxis "0"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+
+	SystemAttributes
+	{
+		WorldMappingWidth "128"
+		WorldMappingHeight "128"
+	}
+}
