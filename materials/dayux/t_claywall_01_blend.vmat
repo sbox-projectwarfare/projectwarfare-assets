@@ -4,7 +4,7 @@ Layer0
 {
 	shader "blendable.vfx"
 
-	F_MULTIBLEND 1 // 2 Layers
+	F_MULTIBLEND 2 // 3 Layers
 
 	//---- Use Tint Masks In Vertex Paint ----
 	F_USE_TINT_MASKS_IN_VERTEX_PAINT 1
@@ -48,6 +48,18 @@ Layer0
 	TextureNormalB "materials/dayux/bricks037_2k_normaldx.jpg"
 	TextureRoughnessB "materials/dayux/bricks037_2k_roughness.jpg"
 	TextureTintMaskB "[0.000000 0.000000 0.000000 0.000000]"
+
+	//---- Material C ----
+	g_flBlendSoftnessC "0.500"
+	g_flTintColorC "[0.564706 0.368627 0.145098 1.000000]"
+	g_vTexCoordScale3 "[1.000 1.000]"
+	TextureAmbientOcclusionC "materials/dayux/red-clay-wall-ao.png"
+	TextureBlendMaskC "materials/dayux/red-clay-wall-height.png"
+	TextureColorC "materials/dayux/plaster001_2k_color.jpg"
+	TextureMetalnessC "materials/default/default_metal.tga"
+	TextureNormalC "materials/dayux/red-clay-wall-normal-dx.png"
+	TextureRoughnessC "materials/dayux/red-clay-wall-roughness.png"
+	TextureTintMaskC "materials/dayux/red-clay-wall-roughness.png"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
