@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Millitaryrp Assets",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "millitaryrp-assets",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "code",
+  "RootNamespace": "Sandbox"
+}
