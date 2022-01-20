@@ -6,7 +6,7 @@
   "Ident": "millitaryrp-assets",
   "Schema": 1,
   "HasAssets": true,
-  "AssetsPath": "",
+  "AssetsPath": "*.*",
   "HasCode": true,
   "CodePath": "code",
   "RootNamespace": "Sandbox"
