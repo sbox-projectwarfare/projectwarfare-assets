@@ -4,11 +4,14 @@ Layer0
 {
 	shader "complex.vfx"
 
+	//---- Overlay ----
+	F_OVERLAY 1
+
 	//---- PBR ----
 	F_SPECULAR 1
 
 	//---- Translucent ----
-	F_ALPHA_TEST 1
+	F_TRANSLUCENT 1
 
 	//---- Ambient Occlusion ----
 	g_flAmbientOcclusionDirectDiffuse "0.000"
@@ -47,7 +50,6 @@ Layer0
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 
 	//---- Translucent ----
-	g_flAlphaTestReference "0.500"
-	g_flAntiAliasedEdgeStrength "1.000"
+	g_flOpacityScale "1.000"
 	TextureTranslucency "materials/models/unreal/warzonev2materials/sgzcrdn_8k_trans.jpg"
 }
