@@ -1,4 +1,4 @@
-<!-- KV3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc28:version{fb63b6ca-f435-4aa0-a2c7-c66ddc651dca} -->
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
 {
 	rootNode = 
 	{
@@ -13,8 +13,19 @@
 						_class = "RenderMeshFile"
 						name = "city_house_outskirts_stairs_railing_1_ref"
 						filename = "models/rp_highland/city_house_outskirts_stairs_railing_1/city_house_outskirts_stairs_railing_1_ref.dmx"
+						import_translation = [ 0.0, 0.0, 66.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
 						import_scale = 1.0
-					}
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
 				]
 			},
 			{
@@ -23,22 +34,23 @@
 				[
 					{
 						_class = "EmptyAnim"
+						name = "ref"
 						activity_name = ""
 						activity_weight = 1
-						anim_markup_ordered = false
-						delta = false
-						disable_compression = false
+						weight_list_name = ""
 						fade_in_time = 0.2
 						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
 						frame_count = 1
 						frame_rate = 30
-						hidden = false
-						looping = false
-						name = "ref"
-						weight_list_name = ""
-						worldSpace = false
-					}
+					},
 				]
+				default_root_bone_name = ""
 			},
 			{
 				_class = "BodyGroupList"
@@ -46,37 +58,211 @@
 				[
 					{
 						_class = "BodyGroup"
+						name = "body"
 						children = 
 						[
 							{
 								_class = "BodyGroupChoice"
 								meshes = 
 								[
-									"city_house_outskirts_stairs_railing_1_ref"
+									"city_house_outskirts_stairs_railing_1_ref",
 								]
-							}
+							},
 						]
 						hidden_in_tools = false
-						name = "body"
-					}
-				]
-			},
-			{
-				_class = "JiggleBoneList"
-				children = 
-				[
-				]
-			},
-			{
-				_class = "MaterialGroupList"
-				children = 
-				[
+					},
 				]
 			},
 			{
 				_class = "BoneMarkupList"
 				bone_cull_type = "None"
-			}
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -0.581535, 6.751483, -17.341433 ]
+						angles = [ 0.0, 0.0, -26.5 ]
+						dimensions = [ 120.375397, 164.779907, 9.576555 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, 7.693799, 29.22699 ]
+						angles = [ 0.0, 0.0, -26.5 ]
+						dimensions = [ 4.66287, 164.673996, 3.532196 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, 7.812436, 29.464937 ]
+						angles = [ 0.0, 0.0, -26.5 ]
+						dimensions = [ 4.662868, 164.674194, 4.091477 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, -70.001335, 64.19455 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.662868, 15.792736, 3.693634 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, -72.026672, 64.194504 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.662868, 19.843475, 3.693634 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, -64.112198, 41.963799 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, -32.112202, 25.9638 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, -0.112202, 10.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, 31.8878, -5.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 56.051399, 63.887798, -22.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, -64.112198, 41.963799 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, -32.112202, 25.9638 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, -0.112202, 10.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, 31.8878, -5.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "wood"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -55.948601, 63.887798, -22.0 ]
+						angles = [ 0.0, 0.0, -90.0 ]
+						dimensions = [ 4.662868, 40.30484, 3.864065 ]
+					},
+				]
+			},
 		]
 		model_archetype = ""
 		primary_associated_entity = ""

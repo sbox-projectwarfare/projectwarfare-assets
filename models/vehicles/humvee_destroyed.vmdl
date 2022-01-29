@@ -89,6 +89,48 @@
 				_class = "BoneMarkupList"
 				bone_cull_type = "None"
 			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "metal"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.889454, 48.460575, 36.758987 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 106.450943, 179.568268, 83.517975 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -1.672935, 17.667162, 85.887177 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 80.820824, 65.607269, 21.774368 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = "static_prop"
+						surface_prop = "metal"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.889454, -76.646301, 25.681152 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 106.450943, 73.381531, 61.362305 ]
+					},
+				]
+			},
 		]
 		model_archetype = ""
 		primary_associated_entity = ""
