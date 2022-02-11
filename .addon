@@ -1,9 +1,8 @@
 {
-  "SharedAssets": "",
-  "Title": "Millitaryrp Assets",
+  "Title": "military-rp_assets",
   "Type": "game",
-  "Org": "local",
-  "Ident": "millitaryrp-assets",
+  "Org": "millitaryrp",
+  "Ident": "military-rp_assets",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
