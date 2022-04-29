@@ -1,0 +1,43 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	RectangleSets = 
+	[
+		{
+			name = ""
+			properties = null
+			rectangles = 
+			[
+				{
+					min = [ 0, 0 ]
+					max = [ 0, 6144 ]
+					properties = null
+				},
+				{
+					min = [ 0, 0 ]
+					max = [ 0, 4096 ]
+					properties = null
+				},
+				{
+					min = [ 0, 0 ]
+					max = [ 0, 5120 ]
+					properties = null
+				},
+				{
+					min = [ 18432, 14336 ]
+					max = [ 21504, 17408 ]
+					properties = null
+				},
+				{
+					min = [ 17920, 13824 ]
+					max = [ 22016, 17920 ]
+					properties = null
+				},
+				{
+					min = [ 18432, 14336 ]
+					max = [ 20992, 16896 ]
+					properties = null
+				},
+			]
+		},
+	]
+}
